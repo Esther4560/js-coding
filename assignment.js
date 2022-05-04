@@ -72,7 +72,7 @@ The function is callable object that executes a block of code. Since functions a
  Try to describe what a variable is, in your own words.
 */
 
-/*In my words a variable ia any characteristics,number or quantity that can be measured an counted,
+/*In my words a variable is any characteristic,number or quantity that can be measured an counted,
 eg age,sex,business income etc */
 
 /* EXERCISE 3
